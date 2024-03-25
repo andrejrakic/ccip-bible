@@ -89,3 +89,7 @@ Here is the collection of recordings and Gitbooks of previous CCIP masterclasses
 - https://x.com/andrej_dev/status/1729464666739392515?s=20
 - https://x.com/andrej_dev/status/1772258863326150722?s=20
 
+## Videos
+
+<a href="https://www.youtube.com/live/Dvna-eEQEsQ?feature=shared"><img width="45%" alt="Constellation Hackathon Workshop" src="https://github.com/andrejrakic/ccip-bible/assets/37881789/ec389750-f026-4949-b196-e0be9d19eaeb">
+
